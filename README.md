@@ -1,1 +1,1 @@
-Este é um exemplo de frase
+Este é um OUTRO exemplo de frase
